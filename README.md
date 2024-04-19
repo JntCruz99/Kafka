@@ -38,4 +38,3 @@ Este projeto serve como um exemplo de uso do Kafka com Docker para comunicação
 
 ## Referências
 - Documentação do Apache Kafka: [link](https://kafka.apache.org/documentation/)
-- Documentação do Spring Kafka: [link](https://docs.spring.io/spring-kafka/docs/current/reference/html/)
